@@ -1037,7 +1037,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://github.com/thatmediocrestreamer01/GPV/blob/master/Pad-TMS.svgz);
+    background: url(GPV/Pad-TMS.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
