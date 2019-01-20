@@ -474,7 +474,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/base.svgz);
+    background: url(xbox-assets/GPV/Pad-TMS.svgz);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -740,7 +740,7 @@ strong {
 
 /*BEGIN PS3 Controller Styling*/
 .controller.ps {
-    background: url(ps3-assets/base.png);
+    background: url(ps3-assets/GPV/Pad-TMS.svgz);
     height: 558px;
     width: 784px;
     /*    margin-left: -392px;
@@ -996,7 +996,7 @@ strong {
 
 /*BEGIN PS3 White Controller Styling*/
 .controller.ps.white {
-    background-image: url(ps3-white-assets/base.png);
+    background-image: url(ps3-white-assets/GPV/Pad-TMS.svgz);
 }
 
 .ps.white.disconnected {
@@ -1317,7 +1317,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.svgz);
+    background-image: url(ps4-white-assets/GPV/Pad-TMS.svgz);
 }
 
 .ds4.white.disconnected {
